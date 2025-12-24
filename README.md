@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **B Tech(CSE)**
 
 - 📫 How to reach me **sagar9012sharma@gmail.com**
-- <a href="https://sagar006-portfolio.netlify.app/">Portfolio</a>
+- <a href="https://sagar006-portfolio.netlify.app/"> 🚀 My Portfolio </a>
 
 - ⚡ Fun fact **I am funny😇**
 
