@@ -10,11 +10,13 @@
 - 🌱 I’m currently learning **B Tech(CSE)**
 
 - 📫 How to reach me **sagar9012sharma@gmail.com**
+- <a href="https://sagar006-portfolio.netlify.app/">Portfolio</a>
 
 - ⚡ Fun fact **I am funny😇**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://sagar006-portfolio.netlify.app/">Portfolio</a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sagar-sharma-ba2739267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sagar-sharma-ba2739267/" height="30" width="40" /></a>
 <a href="https://instagram.com/its_sagar_pandit_ji_001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_sagar_pandit_ji_001" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/www.youtube.com/@sagarpandi2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@sagarpandi2005" height="30" width="40" /></a>
